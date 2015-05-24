@@ -6,9 +6,10 @@ Crie o repositório no [Github](https://github.com)
 Obs.: Deixe desmarcado o “Initialize this repository with a README”
 
 ### Git Bash
-Vá até a pasta do projeto existende
-
+Vá até a pasta do projeto existente
+```javascript
 cd (exemplo: c:/projeto/exemplo)
+```
 
 Depois de o comando
 ```javascript
